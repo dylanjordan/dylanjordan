@@ -8,7 +8,7 @@ I am an indie developer currently studying game development at Ontario Tech Univ
 **💼 Current Projects and Roles:**
 
 - 🔥 _Rise of the Elements_ / Game Producer
-- 🎖️ _Sentinels_ / Creative Director
+- 🎖️ _Project Skyvale_ / Game Design / AI Programmer
 
 **📜 Project Descriptions:**
 
@@ -18,11 +18,11 @@ _Rise of the Elements is an open-world action RPG that focuses on fantasy elemen
 
 **Release Date: TBH**
 
-**[🎖️ Sentinels ]**
+**[🎖️ Project Skyvale]**
 
-_Sentinels is a first person shooter game where the user can play a variety of game modes. In these gamemodes, the user will play as their created character and be tasked with completing specific objectives while also preventing the enemy team from completing their own. The action will take place in a futuristic setting similar to games like Call of Duty: Infinite Warfare. During a match, the player can move his character from area to area, strategizing and engaging in combat._
+Project Skyvale is a 3rd person story/gameplay driven Hack & Slash RPG. In a world torn asunder by ancient rivalries and the insatiable hunger for power, the realm of humanity emerged as a beacon of hope in the midst of chaos. The city of Skyvale, nestled high amidst the clouds, is ruled by ancient enemies. But peace is an ephemeral dream in a world where darkness looms on the horizon, and the legacy of an age-old prophecy threatens to unleash cataclysmic forces upon the world.
 
-**Release Date: TBH**
+**Release Date: April 2024**
 
 ---
 <!--
