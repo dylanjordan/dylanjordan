@@ -18,7 +18,7 @@ _Rise of the Elements is an open-world action RPG that focuses on fantasy elemen
 
 **Release Date: TBH**
 
-**[🎖️ Project Skyvale]**
+**[🎖️ Project Skyvale ]**
 
 Project Skyvale is a 3rd person story/gameplay driven Hack & Slash RPG. In a world torn asunder by ancient rivalries and the insatiable hunger for power, the realm of humanity emerged as a beacon of hope in the midst of chaos. The city of Skyvale, nestled high amidst the clouds, is ruled by ancient enemies. But peace is an ephemeral dream in a world where darkness looms on the horizon, and the legacy of an age-old prophecy threatens to unleash cataclysmic forces upon the world.
 
